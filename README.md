@@ -9,7 +9,7 @@ weather station data using PySpark".
 - Spark >= 3.2.1, pre-build for Apache Hadoop 3.2 available here https://spark.apache.org/downloads.html
 - Python 3
 
-- [x] Have downloaded Verona Card and Weather available at https://univr-my.sharepoint.com/:f:/g/personal/anna_dallavecchia_studenti_univr_it/Em2lYrG7qJBAk2nYYvo305wBq_MYmPok73RbXFSK0AJwrw?e=HqmrCl
+- [x] Have downloaded Verona Card and Weather available at https://univr-my.sharepoint.com/:f:/g/personal/anna_dallavecchia_studenti_univr_it/Em2lYrG7qJBAk2nYYvo305wBq_MYmPok73RbXFSK0AJwrw
 
 ## Verona Card Dataset
 |  | label	| description	|
